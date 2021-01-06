@@ -1,0 +1,126 @@
+.first-width{
+    width: 10%;
+    float: right;
+    font-size: medium;
+    font-style:initial;
+    
+}
+#about{
+    margin-left: 40%;
+}
+#name{
+    color: orange;
+}
+.second-width{
+    width:40%;
+    float: left;
+    margin-left: 5%;
+    padding-top: 2%;
+    padding-left: 5%;
+
+    
+}
+#head{
+ 
+    font-size: 45px;
+    padding-top: 7%;
+    padding-right: 5%;
+
+}
+.banner{
+    background-image: url("images/banner.png");
+    background-blend-mode: soft-light;
+    background-repeat: no-repeat;
+    background-position-x: 100%;
+    margin: 0%;
+
+}
+section{
+    height: 90px;
+
+}
+body{
+    margin-left: 0%;
+}
+p{
+    padding-bottom: 5%;
+    width: 420px;
+    color:rgb(13, 14, 13):
+}
+.button{
+text-decoration: none;
+font-style: italic;
+font-size: 25px;
+background-image: linear-gradient(360deg, rgb(241, 241, 128) , tomato);
+padding: 10px 20px;
+border-radius: 5px;
+color: rgb(7, 9, 37);
+font-weight: 700;
+text-align: center;
+width: 200px;
+height: 50px;
+text-align: center;
+}
+#second-part{
+    padding-top: 10%;
+
+}
+h2{
+    font-weight: 700;
+    font-style: initial;
+    font-size: 30px;
+}
+.second-part{
+    padding-bottom: 37%;
+}
+h4{
+    font-size: 50px;
+    font-weight: 700;
+    
+    text-align: center;
+}
+.third-width{
+    width:20%;
+
+    float: left;
+    padding: 3% 4%;
+    border: khaki solid 5px ;
+    border-radius: 30px ;
+    margin-right: 4%;
+    box-shadow: 10px 10px 10px 10px rgb(105, 104, 104);
+}
+.section{
+    padding-left: 7%;
+}
+.last-head{
+    font-weight: 700;
+    font-size: 20px;
+    color: rgb(5, 5, 73);
+}
+.fouth-width{
+
+    width:30%;
+    float: left;
+    margin-left: 5%;
+    padding-top: 2%;
+    padding-left: 5%;
+}
+#last-w{
+    color: rgb(0, 0, 2);
+    margin-right: 15%;
+    font-size: 25px;
+    font-style: italic;
+    font-weight: 700;
+}
+#para{
+    float: left;
+    padding: 4% 10%;
+    border: khaki solid 5px ;
+    border-radius: 30px ;
+    margin-right: 4%;
+    box-shadow: 10px 10px 10px 10px rgb(105, 104, 104);
+    margin-left: 32%;
+    margin-top: 10%;
+    background-image: linear-gradient(75deg, rgb(35, 172, 214) , rgb(34, 33, 33));
+    
+}
