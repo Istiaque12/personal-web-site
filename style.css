@@ -8,7 +8,7 @@
 #about{
     margin-left: 40%;
 }
-#name{
+.name{
     color: orange;
 }
 .second-width{
@@ -107,10 +107,11 @@ h4{
 }
 #last-w{
     color: rgb(0, 0, 2);
-    margin-right: 15%;
+    margin-right: 14%;
     font-size: 25px;
     font-style: italic;
-    font-weight: 700;
+    text-align: center;
+    
 }
 #para{
     float: left;
@@ -123,4 +124,19 @@ h4{
     margin-top: 10%;
     background-image: linear-gradient(75deg, rgb(35, 172, 214) , rgb(34, 33, 33));
     
+}
+.aline{
+    text-align: center;
+    padding-top: 0%;
+    padding-left: 35%;
+}
+#foot{
+    color: rgb(0, 0, 2);
+    margin-right: 10%;
+    font-size: 25px;
+    font-style: italic;
+    text-align: right;
+    padding-left: 25%;
+    padding-top: 50%;
+    padding-bottom: 0%;
 }
